@@ -1,0 +1,7 @@
+{
+  "name": "Gemigroq Ultimate",
+  "description": "A high-intelligence AI assistant with vision capabilities, location awareness, and robust chat management features. Built with React and Gemini API.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
